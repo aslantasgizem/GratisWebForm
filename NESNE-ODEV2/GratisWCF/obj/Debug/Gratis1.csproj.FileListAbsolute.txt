@@ -1,0 +1,21 @@
+C:\Users\Tuğçe Gizem\source\repos\Gratis1\bin\Gratis1.dll.config
+C:\Users\Tuğçe Gizem\source\repos\Gratis1\bin\Gratis1.dll
+C:\Users\Tuğçe Gizem\source\repos\Gratis1\bin\Gratis1.pdb
+C:\Users\Tuğçe Gizem\source\repos\Gratis1\obj\Debug\Gratis1.csproj.CoreCompileInputs.cache
+C:\Users\Tuğçe Gizem\source\repos\Gratis1\obj\Debug\Gratis1.dll
+C:\Users\Tuğçe Gizem\source\repos\Gratis1\obj\Debug\Gratis1.pdb
+C:\Users\Tuğçe Gizem\source\repos\Gratis1\obj\Debug\Gratis1.csprojAssemblyReference.cache
+C:\Users\Begüm\Desktop\Gratis\Gratis\Gratis\Gratis1\bin\Gratis1.dll.config
+C:\Users\Begüm\Desktop\Gratis\Gratis\Gratis\Gratis1\bin\Gratis1.dll
+C:\Users\Begüm\Desktop\Gratis\Gratis\Gratis\Gratis1\bin\Gratis1.pdb
+C:\Users\Begüm\Desktop\Gratis\Gratis\Gratis\Gratis1\obj\Debug\Gratis1.csprojAssemblyReference.cache
+C:\Users\Begüm\Desktop\Gratis\Gratis\Gratis\Gratis1\obj\Debug\Gratis1.csproj.CoreCompileInputs.cache
+C:\Users\Begüm\Desktop\Gratis\Gratis\Gratis\Gratis1\obj\Debug\Gratis1.dll
+C:\Users\Begüm\Desktop\Gratis\Gratis\Gratis\Gratis1\obj\Debug\Gratis1.pdb
+C:\Users\Begüm\Desktop\GratisWPF-WCF\GratisWCF\bin\Gratis1.dll.config
+C:\Users\Begüm\Desktop\GratisWPF-WCF\GratisWCF\bin\Gratis1.dll
+C:\Users\Begüm\Desktop\GratisWPF-WCF\GratisWCF\bin\Gratis1.pdb
+C:\Users\Begüm\Desktop\GratisWPF-WCF\GratisWCF\obj\Debug\Gratis1.csprojAssemblyReference.cache
+C:\Users\Begüm\Desktop\GratisWPF-WCF\GratisWCF\obj\Debug\Gratis1.csproj.CoreCompileInputs.cache
+C:\Users\Begüm\Desktop\GratisWPF-WCF\GratisWCF\obj\Debug\Gratis1.dll
+C:\Users\Begüm\Desktop\GratisWPF-WCF\GratisWCF\obj\Debug\Gratis1.pdb
